@@ -16,8 +16,7 @@ Would turn the local user "alice" into an admin.
 A user that is designated as `admin = TRUE` in the database is able to access a suite of administration tools:
 
 * View, edit, silence, or suspend users - https://yourmastodon.instance/admin/accounts
-* View PubSubHubbub subscriptions - https://yourmastodon.instance/admin/pubsubhubbub
-* View domain blocks - https://yourmastodon.instance/admin/domain_blocks
+* View federated domains status - https://yourmastodon.instance/admin/instances
 * Sidekiq dashboard - https://yourmastodon.instance/sidekiq
 * PGHero dashboard for PostgreSQL - https://yourmastodon.instance/pghero
 * Edit site settings - https://yourmastodon.instance/admin/settings
